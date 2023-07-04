@@ -1,5 +1,5 @@
 # Logica-de-Programacao-Vinih
-Este repositório é indicado para iniciantes na programação!!
+Este repositório é indicado para iniciantes na programação!! 💻📚
 
 Lembrando que o portifolio será baseado conforme o curso feito por minha pessoa na plataforma Udemy!!
 

@@ -13,7 +13,7 @@ let y = 10; //Atribui o valor 10 a variavel y;
 let a = 10;
 a += 5; //Resultado a: a = a + 5 = 15;
 
-//Subtracaoo
+//Subtracao
 let b = 20;
 b -= 4; //Resultado b: b = b - 4 = 16;
 

@@ -14,6 +14,5 @@ if(false)
 console.log("Fim");
 
 // Saída:
-
 // Vai ser executado!
 // Fim

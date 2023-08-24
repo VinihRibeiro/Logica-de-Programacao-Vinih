@@ -5,6 +5,7 @@
 
 // Exemplo: 
 
+
 if(true)
     console.log("Vai ser executado!"); // Se a expressao for "true" ele executara a linha de codigo, se nao, nao executara.  
 

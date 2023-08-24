@@ -28,6 +28,8 @@ switch (dia) {
     break;
 }
 
+// Saída: Quinta-feira
+
 //A instrução break é usada para encerrar o bloco de código atual e mover o controle para a próxima instrução após a instrução switch. Se a instrução break for omitida, o controle será movido para o próximo bloco de código case.
 
 //Outro Exemplo:
@@ -44,5 +46,6 @@ switch (nota){
     case 0:
         console.log("Precisa melhorar");
         break;        
-
 }
+
+//Saída: Mediano

@@ -1,4 +1,4 @@
-# <span style="color:yellow"> Armazenando Funcões em Variavéis</span>
+# <span style="color:yellow"> Armazenando Funções em Variavéis</span>
 
 * Em JavaScript, você pode armazenar funções em variáveis usando a palavra-chave function. A sintaxe para armazenar uma função em uma variável é a seguinte:
 

@@ -1,4 +1,4 @@
-# <span style="color:yellow">Estrutura Switch / Break</span>
+# <span style="color:yellow">Estrutura Switch Case / Break</span>
 
 * Switch - A instrução switch no JavaScript é uma estrutura condicional usada para executar diferentes blocos de código dependendo do valor de uma expressão. A instrução switch é semelhante à instrução if, mas é mais eficiente para lidar com muitos valores possíveis.
 

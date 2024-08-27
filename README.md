@@ -5,4 +5,4 @@ Lembrando que o portifolio será baseado conforme o curso feito por minha pessoa
 
 📌 Link do curso pela plataforma Udemy ⬇⬇⬇
 
-https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/
+<a  href="https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/" target="_blank">https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/</a>
